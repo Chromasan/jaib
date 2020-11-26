@@ -37,7 +37,7 @@ span{
 
 .top h1{
   color: #fff;
-  padding-top:200px;
+  padding-top:10%;
   /*padding-left: 60px;*/
   font-size: 80px;
 }
@@ -46,7 +46,7 @@ span{
 @media screen and (max-width: 800px) {
   .top h1{
     color: #fff;
-    padding-top:250px;
+    padding-top:30%;
     font-size: 50px;
   }
 }
