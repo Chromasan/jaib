@@ -39,7 +39,7 @@ header{
 
 body{
   font-family: 'Noto Serif JP', serif;
-  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  background: #EBCED0;
   /*背景色が途切れない対策*/
   /*https://qastack.jp/programming/2869212/css3-gradient-background-set-on-body-doesnt-stretch-but-instead-repeats*/
   height: 100%;
